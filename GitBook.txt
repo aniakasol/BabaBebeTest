@@ -1,0 +1,9 @@
+https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html
+Почитать на досугє
+
+
+
+Крім того, ви можете звернутися до презентації Джеррі Куперштейна «GIT Started with Community Software», представленої на Чиказькій конференції з вбудованих систем у 2010 році.
+https://training.linuxfoundation.org/cm/prep/talks/ESC.pdf
+Безкоштовний онлайн-вебінар Джеймса Боттомлі, "Introduction to Git", можна переглянути на навчальному сайті The Linux Foundation.
+https://training.linuxfoundation.org/resources/webinars/introduction-to-git/
